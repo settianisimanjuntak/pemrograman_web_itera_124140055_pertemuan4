@@ -1,7 +1,7 @@
 # Tugas Praktikum Pertemuan 4 - Python Dasar
 
-**Nama:** [Settiani Simanjuntak]
-**NIM:** [124140055]
+**Nama:** Settiani Simanjuntak
+**NIM:** 124140055
 **Mata Kuliah:** Praktikum Pengembangan Aplikasi Web - Teknik Informatika ITERA
 
 ## Deskripsi Program
